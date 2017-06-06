@@ -1,0 +1,6 @@
+glob:.metadata\
+glob:PPC603gnu\
+glob:Logomotion\.settings\
+glob:*~
+glob:*.swp
+glob:*.gch
